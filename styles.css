@@ -1,0 +1,21 @@
+.navigation{
+    padding: 5px;
+    background-color: black;
+    margin:0;
+
+}
+
+.list{
+    line-height: 1.1em;
+}
+
+.list-navigation{
+    list-style-type: none;
+    line-height: normal;
+}
+
+.listitem-navigation{
+    display: inline;
+    margin: 0 20px;
+    
+}
